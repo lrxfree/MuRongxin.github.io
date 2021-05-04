@@ -42,8 +42,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/MuRongxin || Github
+  fas fa-envelope: mailto:unity_l@qq.com || Email
+  fab fa-youtube: https://www.acfun.cn/u/23777393 || Acfun
 
 # search (搜索)
 # --------------------------------------
@@ -180,9 +181,9 @@ toc:
 
 post_copyright:
   enable: true
-  decode: false
-  license: CC BY-NC-SA 4.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  decode: true
+  # license: CC BY-NC-SA 4.0
+  # license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Sponsor/reward
 reward:
@@ -640,11 +641,11 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 喵呜 ~o( =∩ω∩= )m
+      link: https://github.com/MuRongxin
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Unity 内容更新中~~Genshin Impact Dance v_1.0 希望能早点做完!
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -789,7 +790,7 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)

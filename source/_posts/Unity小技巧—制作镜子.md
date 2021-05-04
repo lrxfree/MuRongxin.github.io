@@ -1,8 +1,11 @@
 ---
 title: Unity小技巧—制作镜子
 date: 2021-05-03 10:04:06
-tags: unity
+tags: 
+    - unity
+    - unity技巧
 cover: ../image/镜子.png
+highlight_shrink: true
 ---
 
 > 镜子的实现效果如封面所示，还是非常不错的；不要添加额外的摄像机。

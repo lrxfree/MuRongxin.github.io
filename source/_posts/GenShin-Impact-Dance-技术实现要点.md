@@ -47,3 +47,5 @@ private void Awake()
 
 - 模型导入unity后，有的模型会出现材质球纹理丢失问题，而有的模型由不会，目前原因我还没有弄清楚。如果出问题了，需要手动指定 shader 为Mmd4Mecanim类下面的，并设置相应的Texture。
 
+<div class="aplayer no-destroy" data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="true" muted></div>
+
