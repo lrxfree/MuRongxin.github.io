@@ -1,9 +1,10 @@
 ---
 title: Unity小技巧—制作镜子
-date: 2021-05-03 10:04:06
+date: 2021-05-01 10:04:06
 tags: 
     - unity
     - unity技巧
+categories: unity
 cover: ../image/镜子.png
 highlight_shrink: true
 ---
