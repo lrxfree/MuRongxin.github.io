@@ -2,7 +2,7 @@
 title: Unity for MikumikuDance
 date: 2021-05-02 09:01:08
 tags: unity插件
-cover: https://blogs.unity3d.com/wp-content/uploads/2020/02/Unity-GDC2020-BlogHeader-01.png
+cover: ../image/unity_Log.jpg
 copyright _author: 欣晴
 copyright_ author _href: https://www.lrin.com 
 copyright_ url: https://www.lrin.cn 
