@@ -1,5 +1,5 @@
 ---
-title: Angry No 细节记录
+title: Angry No 学习笔记
 date: 2019-07-03 13:51:03
 tags: unity
 cover: ../image/unity_Log.png
