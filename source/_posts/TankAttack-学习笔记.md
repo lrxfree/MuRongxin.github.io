@@ -230,7 +230,19 @@ private Vector2 CreatRandomPosition() //产生随机位置的方法；
 ### 十、单例模式
 
 ```c#
-//单例模式 private static PlayerManager instance; public static PlayerManager Instance//如果要在其它的方法里面 访问并修改该方法里面的变量，则要把这个方法写为 单例模式：    {        get        {            return instance;        }        set        {            instance = value;        }    }	
+//单例模式 
+private static PlayerManager instance; 
+public static PlayerManager Instance//如果要在其它的方法里面 访问并修改该方法里面的变量，则要把这个方法写为 单例模式： 
+{       
+    get    
+    {          
+        return instance;   
+    }      
+    set       
+    {         
+        instance = value;   
+    }   
+}	
 ```
 
 ### 十一、其它场景的加载(通过一个场景进入其它场景)：
@@ -244,7 +256,14 @@ using UnityEngine.SceneManagement;SceneManager.LoadScene(1);  //要在Build Sett
 >  <1> 通过AudioSource组件来播放
 
 ```c#
-private AudioSource moveAudio;  //定义组件public AudioClip[] moveAudioType; // [0]:Idel; [1]:Driving，获取音效； moveAudio = GetComponent<AudioSource>(); //得到组件 moveAudio.clip = moveAudioType[1];//音效赋值if (!moveAudio.isPlaying)//如果没有正在播放，就播放音效{   moveAudio.Play(); //播放音效；}	
+private AudioSource moveAudio;  //定义组件
+public AudioClip[] moveAudioType; // [0]:Idel; [1]:Driving，获取音效； 
+moveAudio = GetComponent<AudioSource>(); //得到组件 
+moveAudio.clip = moveAudioType[1];//音效赋值
+if (!moveAudio.isPlaying)//如果没有正在播放，就播放音效
+{   
+    moveAudio.Play();  //播放音效；
+}	
 ```
 
 > <2>直接播放：
