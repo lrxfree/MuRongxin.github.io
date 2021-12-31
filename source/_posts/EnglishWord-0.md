@@ -149,7 +149,66 @@ Word
 |接触/联系【n/v】|{% hideInline contact %}|足够的/充足的|{% hideInline sufficient %}|受欢迎/普及/流行-n|{% hideInline popularity %}
 |声明/陈述-n|{% hideInline statement %}|隐藏/躲藏/隐瞒-v/兽皮-n|{% hideInline hide %}|使产生/造成/发生-v|{% hideInline generate %}
 |过高[的]估计【n/v】|{% hideInline overestimate %}|批评/责备-v|{% hideInline criticize %}|环境/背景-n|{% hideInline setting %}
-|
+|升级/提高/改善【n/v】|{% hideInline upgrade %}|旅客/乘客|{% hideInline passenger %}|度/学位/程度|{% hideInline degree %}
+|职员/职工/给...配备职员-v|{% hideInline staff %}|部门/行业/扇形-n|{% hideInline sector %}|长椅/表达-v/措辞|{% hideInline couch %}
+|公寓套房|{% hideInline apartment %}|多样化/种类/变化-n|{% hideInline variety %}|起初的/原先的/原稿/原型/原件|{% hideInline original %}
+|代表/为...代言/展示-v|{% hideInline represent %}|加强/巩固-v|{% hideInline strengthen %}|珍贵的/宝贵的|{% hideInline precious %}
+|生产的/多产的/富有成效的|{% hideInline productive %}|依靠/依赖-v|{% hideInline rely %}|托付/委托/吐露/倾诉-v|{% hideInline confide %}
+|毒药-n/毒害-v|{% hideInline poison %}|线索/提示-n|{% hideInline clue %}|反应-v|{% hideInline react %}
+|具体说明/明确指出-v|{% hideInline specify %}|聚集/召集/集合-v|{% hideInline gather %}|误导-v|{% hideInline mislead %}
+|圈套/困境/陷阱【n/v】|{% hideInline trap %}|诱使/导致/劝说-v|{% hideInline induce %}|条件/情况/环境-n|{% hideInline circumstance %}
+|自愿的/自发的/志愿的/义务性的|{% hideInline voluntary %}|利润/利益-n/获益/得益-v|{% hideInline profit %}|机器/机械-n|{% hideInline machinery %}
+|事情/事件/事务/绯闻-n|{% hideInline affair %}|巧妙的/成功的/聪颖的/辉煌的|{% hideInline brilliant %}|虚伪/伪善-n|{% hideInline hypocrisy %}
+|资助/惠顾/宠幸-v|{% hideInline patronize %}|英镑-n/连续重击-v|{% hideInline pound %}|现象-n|{% hideInline phenomenon %}
+|所有权人/主人/物主-n|{% hideInline owner %}|呼吸/呼气/低语-v|{% hideInline breathe %}|富有的/富裕的|{% hideInline wealthy %}
+|市中心[的]/商业区[的]|{% hideInline downtown %}|伤害/挫伤/损伤-n|{% hideInline injury %}|提醒/警告/使警惕-v|{% hideInline warn %}
+|好奇心-n|{% hideInline curiosity %}|必然的/必定的|{% hideInline certain %}|行为准则/道德规范-n|{% hideInline ethic %}
+|巨人/伟人/巨大的/伟大的|{% hideInline giant %}|调查/勘测【n/v】|{% hideInline survey %}|理解为/解释/诠释-v|{% hideInline interpret %}
+|摇曳/踌躇/摆动/动摇-【v/n】|{% hideInline waver %}|几乎/差不多|{% hideInline nearly %}|首要的/至为重要的/至高无上的|{% hideInline paramount %}
+|重要性/意义/含义-n|{% hideInline significance %}|最重要的/首要的/本金的/本金|{% hideInline principle %}|真实的/实际的/可行的|{% hideInline practical %}
+|确信/向...保证/确保|{% hideInline assure %}|拥护[者]/提倡[者]【v/n】|{% hideInline advocate %}|赞成/批准【n/v】|{% hideInline assent %}
+|否认/拒绝承认[给予]-v|{% hideInline deny %}|此外/而且|{% hideInline furthermore %}|挨饿/饿死-v|{% hideInline starve %}
+|最终/结果|{% hideInline eventually %}|最终的/最根本的/最基础的/最终的事物-n|{% hideInline ultimate %}|相等的/相同的/平等的/等于/比得上-v|{% hideInline equal %}
+|令人信服的/不可抗拒的|{% hideInline compelling %}|或许/也许-adv/猜想-n|{% hideInline perhaps %}|影响深远的|{% hideInline far-reaching %}
+|巨大的/极大的|{% hideInline enormous %}|潜在的/可能的/潜力/可能性/电势|{% hideInline potential %}|明显的/可感知的|{% hideInline palpable %}
+|伤害/损害-n|{% hideInline detriment %}|假设/假想/假定-n|{% hideInline assumption %}|直到|{% hideInline till %}
+|暗示/指示/表明-v|{% hideInline indicate %}|优势/好处-n|{% hideInline advantage %}|学校教育-n|{% hideInline schooling %}
+|便宜货/交易-n/讨价还价-v|{% hideInline bargain %}|值得的/有...价值/价值-n|{% hideInline worth %}|薪水-n|{% hideInline salary %}
+|革命—n|{% hideInline revolution %}|废旧杂物-n|{% hideInline junk %}|圆点/地点-n/发现/弄脏-v|{% hideInline spot %}
+|结冰的/冻结的/冷藏的|{% hideInline frozen %}|区别/辨别-n|{% hideInline discrimination %}|灿烂的/卓越的|{% hideInline brilliant %}
+|等价的/相等的/等价物|{% hideInline equivalent %}|解释/说明/阐述-n|{% hideInline explanation %}|产生/获利/让步-v/产量/利润-n|{% hideInline yield %}
+|大惊小怪/紧张不安【n/v】|{% hideInline fuss %}|有吸引力的|{% hideInline attractive %}|激烈的/强烈的/紧张的|{% hideInline intense %}
+|想象[力]|{% hideInline imagination %}|和平/平静-n|{% hideInline peace %}|证据/证明-n|{% hideInline evidence %}
+|检查/审查/调查-v|{% hideInline examine %}|诉诸/求助-【v/n】/度假胜地-n|{% hideInline resort %}|意识/认识/觉察-n|{% hideInline awareness %}
+|干扰/妨碍/干涉-n|{% hideInline interference %}|疏忽/不予重视【n/v】|{% hideInline neglect %}|吸入/摄入-n|{% hideInline intake %}
+|除去/摆脱[了的]|{% hideInline rid %}|前线/前面[的]|{% hideInline front %}|婴儿[的]/幼儿[的]|{% hideInline infant %}
+|附加的/额外的|{% hideInline additional %}|出现/发生/起来-v|{% hideInline arise %}|拨款/基金/-n[提供]资金/资助-v|{% hideInline fund %}
+|辐射/放射线|{% hideInline radiation %}|塑料[的]/可塑的|{% hideInline plastic %}|[疾]病|{% hideInline disease %}
+|竞争者-n/竞争-v|{% hideInline rival %}|最突出的部分-n/突出/强调-v|{% hideInline highlight %}|非常重要的/基本的/必需品/要素-n/基础知识|{% hideInline essential %}
+|审判/试验/考验-n/测试-v|{% hideInline trial %}|参加-v|{% hideInline participate %}|繁荣/流行-n/迅速发展/繁荣-v|{% hideInline boom %}
+|承诺/奉献-n|{% hideInline commitment %}|日程表/时间表-n/安排-v|{% hideInline schedule %}|低劣/吝啬的/意思是/打算-v|{% hideInline mean %}
+|销售/降价销售-n|{% hideInline sale %}|执行/实施/处决-v|{% hideInline execute %}|可使用的/易接近的/可进入的|{% hideInline accessible %}
+|大量的/实质的/坚固的|{% hideInline substantial %}|普遍的/一般的/大概的/将军-n|{% hideInline general %}|人际关系的|{% hideInline interpersonal %}
+|索取/要求/主张/声称【n/v】|{% hideInline claim %}|移民[的]/侨民[的]-n/adj|{% hideInline immigrant %}|解决/处理/解答-v|{% hideInline solve %}
+|取代/代替/放回原处-v|{% hideInline replace %}|收集/采集/聚会-n|{% hideInline gathering %}|相隔/分开地|{% hideInline apart %}
+|专任的/全部时间的|{% hideInline full-time %}|例子/场合/情况-n|{% hideInline instance %}|渐渐地/逐步地|{% hideInline gradually %}
+|预定/保留-n|{% hideInline reservation %}|习俗/习惯-n|{% hideInline custom %}|文化的|{% hideInline cultural %}
+|链子[条]-n/用铁链锁住-v|{% hideInline chain %}|决策者/政策制定者|{% hideInline policymaker %}|地区/区域/行政区|{% hideInline district %}
+|环/环状物/戒指-n/成环形/响铃-v|{% hideInline ring %}|银色[的]/银[的]-n/adj/镀银于-v|{% hideInline silver %}|诱惑-n|{% hideInline temptation %}
+|反对/反抗/阻碍-v|{% hideInline oppose %}|必需品/必须的食物|{% hideInline necessity %}|公平的/合理的|{% hideInline fair %}
+|古典的|{% hideInline classical %}|恶毒的/有毒的/恶性的|{% hideInline poisonous %}|致命的/灾难性的|{% hideInline fatal %}
+|建议/提出/暗示-v|{% hideInline suggest %}|劝阻/不支持/使气馁-v|{% hideInline discourage %}|打/击/碰撞/袭击【n/v】|{% hideInline hit %}
+|选项/选择-n|{% hideInline option %}|领导/带领/导致-v/铅-n|{% hideInline lead %}|占领/占有/职业/消遣-n|{% hideInline occupation %}
+|表面-n/显露/给...铺路-v|{% hideInline surface %}|在其中|{% hideInline amid %}|冲突/矛盾/抵触【n/v】|{% hideInline conflict %}
+|常规[的]/例行公事[的]-n/adj|{% hideInline routine %}|约定/职位/任命/约会-n|{% hideInline appointment %}|政策/方针-n|{% hideInline policy %}
+|意图/打算-n|{% hideInline intention %}|寿命/长寿|{% hideInline longevity %}|废物/浪费-n/白费/糟蹋-v/荒芜的/废弃的|{% hideInline waste %}
+|滥用/虐待/辱骂【n/v】|{% hideInline abuse %}|活动/运动/动作-n|{% hideInline movement %}|救援/营救【n/v】|{% hideInline rescue %}
+|指示/指令/说明/教授-n|{% hideInline instruction %}|限制/约束/限定-n|{% hideInline restriction %}|投资-n|{% hideInline investment %}
+
+
+
+
+
 
 
 
