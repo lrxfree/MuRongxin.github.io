@@ -11,7 +11,7 @@ Resume_
         <th colspan="3" height="5" style=" background:url(https://z3.ax1x.com/2021/11/19/I7oXxU.png);background-size:cover;background-repeat: no-repeat;"></th>        
     </tr>
     <tr>
-        <th colspan="3" id="option">基本信息</th>        
+        <td colspan="3" id="option">基本信息</td>        
     </tr>
     <tr>
         <td>姓名：陆荣欣</td>
@@ -53,10 +53,10 @@ Resume_
     <tr>
         <td><b>2020.09  至  2020.11   </b></td>   
         <td><b>华东师范大学第四附属中学</b></td>  
-        <td><b>信息技术实习</b> </td>
+        <td align="center"><b>信息技术实习</b> </td>
     </tr>
     <tr>
-        <th colspan="3">
+        <th align="left" colspan="3">
             <ul>
             <li>参与学校信息系统维护，负责学生个人信息管理；</li>
             <li>协助信息技术教师进行课程设计，实际进行 C++课程授课； </li>
@@ -66,10 +66,10 @@ Resume_
     <tr>
         <td><b>2018.06  至  2018.09  </b></td>   
         <td><b>上海数字化教育装备工程技术研究中心 </b></td>  
-        <td><b> 网站后端程序</b> </td>
+        <td align="center"><b> 网站后端程序</b> </td>
     </tr>
     <tr>
-        <th colspan="3">
+        <th align="left" colspan="3">
             <ul>
             <li>参与项目部分数据库的维护；</li>
             <li> 开发数据处理相关工具； </li>
@@ -81,11 +81,11 @@ Resume_
     </tr>
     <tr>
         <td><b>2018.09 2019.11 </b></td>
-        <td><b>上海市 大学生 创新 创业大赛 </b></td>
-        <td><b>团队 第一负责人</b></td> <br>                
+        <td align="center"><b>上海市 大学生 创新 创业大赛 </b></td>
+        <td align="center"><b>团队 第一负责人</b></td> <br>                
     </tr>
     <tr>
-        <th colspan="3">
+        <th align="left" colspan="3">
          <ul>
             <li>作为参赛团队的主要负责人，带领团队完成了一款教育类游戏，最终获得了校创二等奖的成绩；</li>
             <li>在整个过程中， 作为队伍的主要策划兼程序设计游戏的主要玩法， 和其他负责技术的同学一起研究 unity引擎的使用，探索游戏的实现方法；</li>
@@ -98,19 +98,19 @@ Resume_
         </td>
     </tr>
     <tr>
-        <th colspan="3">
+        <th align="left" colspan="3">
          <ul>
-            <li>负责英文站各项信息的维护包括新闻、简介信息等；</li>            
+            <li>负责英文站各项信息的维护包括新闻、简介信息等；</li>         
         </ul> 
         </th>
     </tr>
     <tr>
         <td><b> 2017.09  2018 .07</b></td>
         <td><b>华东 师范大学教育学部 学生联合会</b></td>
-        <td>文体中心干事</td>
+        <td align="center">文体中心干事</td>
     </tr>
     <tr>
-        <th colspan="3">
+        <th colspan="3" align="left">
          <ul>
             <li>参与教育 学部 各类文体活动的策划、组织 协助各类会议的召开等 ;</li>            
         </ul> 
@@ -119,7 +119,7 @@ Resume_
     <tr>
         <td colspan="3" id="option">技能能力</td>
     </tr>
-        <th colspan="3">
+        <th align="left" colspan="3">
         普通话二级乙等；大学英语四级能力较好的听说读写能力， 能阅读英文技术文档；<br>
         能熟练使用常用教学工具软件， 熟悉 PS P R AU 等常用多媒体处理软件；<br>熟悉unity 引擎， 能进行游戏开发 熟悉 C#/Java 语言掌握常用数据结构与算法;
         </th>
@@ -127,7 +127,7 @@ Resume_
         <td colspan="3" id="option">自我评价</td>
     </tr>
     <tr>
-        <th colspan="3">
+        <th align="left" colspan="3">
         我喜欢研究计算机技术， 喜欢挑战自己， 热衷于计算机技术与教育的融合 我十分享受和自己的学生们一起学习时的那种感觉我希望自己的知识能 让 更多的人认可。<br>
         <b>个人技术博客：</b><a href="https://murongxin.github.io/" target="_blank">https://murongxin.github.io/</a> &nbsp
         <b>最新技术向视频</b>: <a href="https://www.acfun.cn/v/ac30912587" target="_blank">https://www.acfun.cn/v/ac30912587</a><br>
