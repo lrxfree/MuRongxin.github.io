@@ -5,35 +5,36 @@ tags:
 cover: https://gamerdunk.com/wp-content/uploads/2019/11/SteamLogo.jpg
 ---
 
-### 这是我喜欢且玩过一些游戏，种类比较杂，也没有包括我玩过的所有游戏；
+### 这是我喜欢且玩过的一些游戏，种类比较杂，也没有包括我玩过的所有游戏；
 
 ### 我个人最喜欢的游戏类型是ACT，RPG类也很喜欢，FPS苦手，接触最多的是单机游戏，很少玩网游，MOBA类的游戏也很少玩；
 
 ### 二次元类的游戏我也玩过，比如：《原神》《战双帕米什》《明日方舟》；原神，我现在每天都玩一会，做一做日常任务；
 
-### 手游的话，相比单机来说接触的不多，
+### 手游的话，相比单机来说接触的不多。
 
 ### PC端：
 
 |游戏名称|大概游戏时长|游戏名称|大概游戏时长|
 |:---|:---:|:---|:---:|
 |<span style="color:red"><b>ACT</b></span>|
-|尼尔 · 机械纪元|100h|消逝的光芒|20h|
+|尼尔 · 机械纪元|100h|合金装备崛起：复仇|40h|
 |鬼泣 5|50h|只狼：影逝二度|60h|
-|猎天使魔女|50h|合金装备崛起：复仇|40h|
-|<span style="color:red">RPG</span>|
+|猎天使魔女|50h|
+|<span style="color:red"><b>RPG</b></span>|
 |上古卷轴 5：天际|50h|巫师 3|50h|
 |赛博朋克2077|40h|八方旅人|50h|
 |死亡搁浅|60h|勇气默示录 2|30h|
-|双人成行|20h|只只大冒险|10h|
-|<span style="color:red">AVG / GALGAME</span> ||||
+|双人成行|30h|只只大冒险|10h|
+|消逝的光芒|20h|
+|<span style="color:red"><b>AVG / GALGAME</b></span> ||||
 |三色绘恋|30h|A Light in The Dark|20h|
 |隐形守护者|20h|高考恋爱 100 天|20h|
 |妄想破绽|30h|猫娘乐园|30h|
-|<span style="color:red">FPS</span>|
+|<span style="color:red"><b>FPS</b></span>|
 |泰坦陨落2|40h|战地1&5|40h|
 |量子破碎|20h
-|<span style="color:red">其它</span>
+|<span style="color:red"><b>其它</b></span>
 |音灵 INVAXION |20h|Tinker Racers|10h|
 |Draw&Guess|10h|装机模拟器|10h|
 
@@ -61,8 +62,24 @@ cover: https://gamerdunk.com/wp-content/uploads/2019/11/SteamLogo.jpg
 		<td>音游，钢琴块下落式，画风和故事都很童话风，我很喜欢。</td>
 	</tr>
 	<tr>
-		<td id="game"> </td>
-		<td></td>
+		<td id="game">影之诗</td>
+		<td>唯一接触过的二次元卡牌类手游，很有意思，可惜现在已经没在玩了。</td>
+	</tr>
+	<tr>
+		<td id="game">赛车竞速类</td>
+		<td>高中时期玩过几款，QQ飞车，极品飞车之类的。</td>
+	</tr>	
+	<tr>
+		<td id="game">明日方舟</td>
+		<td>二次元塔防类手游，很有特点，背景故事很吸引人，高机能风的人物设计很抓人眼球，我虽然是塔防苦手，但就是因为它出色的故事而关注着这款游戏。</td>
+	</tr>
+	<tr>
+		<td id="game">战双帕弥什</td>
+		<td>二次元动作类游戏，有一套极具特色的战斗系统，虽说是动作游戏却和其它游戏的连招操作不一样，操作起来很爽快。</td>
+	</tr>
+	<tr>
+		<td id="game">BanG Dream！</td>
+		<td>以女子乐队为主题的二次元音游，BanG Dream!是一个跨媒体企划，有电视动画、手机音乐游戏、漫画、轻小说、广播、现实演唱会和舞台活动<td>
 	</tr>
 </table>
 <style>
@@ -72,3 +89,8 @@ cover: https://gamerdunk.com/wp-content/uploads/2019/11/SteamLogo.jpg
 	}
 </style>
 </html>
+
+<h4>最后提原神,我现在几乎每天都在玩的游戏，开服玩家，地图探索控，剧情&厨力党，2.6更新层岩巨渊我真是开心；可能对于现在的我来说，原神这类更适合我，不用空出一大段空闲时间，每天玩一点，不用花很多的精力。<h4>
+
+<h5>我喜欢玩游戏，现在最希望的就是能有个空闲时间把艾尔登法环玩了。</h5>
+
